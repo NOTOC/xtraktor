@@ -1,0 +1,19 @@
+I need to extract the information for around 5000 ASIN's
+
+Product name
+Brand	
+List price	
+Sale price
+Seller	
+Seller URL	
+Other offers	
+ASIN	
+Shipping Weight
+Product Dimensions
+Average Customer Review
+Amazon Best Sellers Rank
+UPC
+URL
+
+I have a script that does this in Beautiful Soap  need some amendments to make it fast ( support for middleware or something like crawlera) and to add ability to handle exceptions.
+for amazon...
