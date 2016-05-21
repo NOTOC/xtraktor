@@ -5,6 +5,8 @@ import mechanize
 #apt-get install python-mechanize
 import cookielib
 
+# http://stockrt.github.io/p/emulating-a-browser-in-python-with-mechanize/
+
 def openURL(websiteURL):
     ## setup browser
 
