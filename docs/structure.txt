@@ -1,0 +1,10 @@
+data - folder za podatke
+input.py - sadrzi kod za unos pr. ime sajta, ime parametara za scrape
+main.py - pokrece skriptu
+output.py - sadrzi kod za outpu
+scrapercalz.py - sadrzi kod za komunikaciju sa scraperima kao mechanize i beautiful soup
+docs - folder za dokumete / razno
+log - folder sa log fajlama
+mech.py - drzi mechanize kod
+README.md
+soup.py - drzi Beautiful Soup kod

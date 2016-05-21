@@ -17,3 +17,12 @@ URL
 
 I have a script that does this in Beautiful Soap  need some amendments to make it fast ( support for middleware or something like crawlera) and to add ability to handle exceptions.
 for amazon...
+
+
+************************
+
+I need to have a list of topics and some other details (listed below) fetched recursively from public linkedin pages.
+
+************************
+
+
